@@ -1,3 +1,2 @@
 # threeSolar
-my first code push
-my another first code push
+three.js simulation
