@@ -1,2 +1,2 @@
 # threeSolar
-three.js simulation
+three.js simulation of solar system
