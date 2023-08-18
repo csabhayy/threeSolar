@@ -1,2 +1,2 @@
 # threeSolar
-simulation
+three.js simulation
